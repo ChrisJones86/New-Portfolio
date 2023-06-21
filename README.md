@@ -1,3 +1,3 @@
 # Portfolio site
 
-https://www.benscott.dev/
+https://chrisjones86.github.io/New-Portfolio/

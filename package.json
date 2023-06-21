@@ -7,17 +7,12 @@
     "start": "webpack serve --config webpack.dev.js --open 'google-chrome'",
     "build": "webpack --config webpack.prod.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bscottnz/project-setup-webpack-notes.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bscottnz/project-setup-webpack-notes/issues"
-  },
-  "homepage": "https://github.com/bscottnz/project-setup-webpack-notes#readme",
+
+  "homepage": "https://github.com/ChrisJones86/New-Portfolio.git",
   "devDependencies": {
     "css-loader": "^5.0.2",
     "eslint": "^7.19.0",
