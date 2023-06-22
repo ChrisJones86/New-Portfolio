@@ -1,7 +1,6 @@
 import './sass/main.scss';
 import canvasDots from './heroCanvas.js';
 import canvasDotsBg from './bgCanvas.js';
-import { doc } from 'prettier';
 
 window.onload = function () {
   canvasDotsBg();
