@@ -520,7 +520,7 @@ button{
     display:flex;
     margin-bottom:20px;
 }
-.socials__github,.socials__email{
+.socials__github,.socials__email,.socials__linkedin{
     display:flex;
     justify-content:center;
     align-items:center;
@@ -529,13 +529,17 @@ button{
     cursor:pointer;
     transition:all 0.2s;
 }
-.socials__github:hover,.socials__email:hover{
+.socials__github:hover,.socials__email:hover,.socials__linkedin:hover{
     transform:scale(1.2);
 }
 .socials__github{
     margin-right:1rem;
 }
 .socials__email{
+    margin-left:1rem;
+}
+.socials__linkedin{
+    margin-right:1rem;
     margin-left:1rem;
 }
 .socials img{
