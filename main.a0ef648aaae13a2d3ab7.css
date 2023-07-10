@@ -826,7 +826,7 @@ button{
     position:relative;
     height:70rem;
     width:100rem;
-    background-color:#3216bb;
+    background-color:#282828;
     transition:all 0.2s;
     cursor:pointer;
 }
@@ -866,16 +866,27 @@ button{
         width:39rem;
     }
 }
+
 .project__image-container:hover{
     transform:scale(0.95);
 }
+
 .project__image-image{
     width:80%;
     position:relative;
 }
 .project__image-image img{
-    width: 80%;
+    width: 70%;
 }
+
+.pic06 {
+    height: 500px;
+}
+
+.pic07 {
+    height: 600px;
+}
+
 .project__info{
     position:relative
     ;top:8rem;
