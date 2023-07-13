@@ -76,6 +76,12 @@ function aboutFadeIn(entries, observer) {
           .querySelector('.skills__item--css')
           .classList.add('skills__item-fade-in');
       });
+            //ps
+            sleep(1800).then(() => {
+              document
+                .querySelector('.skills__item--photoindexindex.js')
+                .classList.add('skills__item-fade-in');
+            });
     }
   });
 }

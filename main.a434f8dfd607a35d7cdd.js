@@ -35,6 +35,10 @@ new IntersectionObserver((function(e,t){
         document.querySelector(".skills__item--css")
         .classList.add("skills__item-fade-in")
     })),e(1700)
+    .then((()=>{
+        document.querySelector(".skills__item--photo")
+        .classList.add("skills__item-fade-in")
+    })),e(1800)
 }}))}),u)
 .observe(document.querySelector(".about__content"));
 const i=document.querySelectorAll(".navigation__item");
